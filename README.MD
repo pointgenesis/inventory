@@ -1,4 +1,4 @@
-#Commands
+# Commands
 
 - `. venv/bin/activate`
 - `pip install fastapi`
@@ -9,6 +9,6 @@
 - `docker run -p 8000:8000 inventory` Note: the pwd should be ./inventory when running this command
 
 
-#References
+# References
 1. https://www.youtube.com/watch?v=bi0cKgmRuiA
 2. https://www.youtube.com/watch?v=Cy9fAvsXGZA&t=269s
